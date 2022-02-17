@@ -1,0 +1,32 @@
+﻿[
+  {
+    "date": "2022-02-15",
+    "temperatureC": 1,
+    "summary": "Jaipur",
+    "temperatureF": 33
+  },
+  {
+    "date": "2022-02-16",
+    "temperatureC": 14,
+    "summary": "Delhi",
+    "temperatureF": 57
+  },
+  {
+    "date": "2022-02-17",
+    "temperatureC": -13,
+    "summary": "Patna",
+    "temperatureF": 9
+  },
+  {
+    "date": "2022-02-18",
+    "temperatureC": -16,
+    "summary": "Bihar",
+    "temperatureF": 4
+  },
+  {
+    "date": "2022-02-19",
+    "temperatureC": -2,
+    "summary": "India",
+    "temperatureF": 29
+  }
+]
